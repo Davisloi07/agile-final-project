@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: User stories template
-about: this template is for the stories for the project
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **As a** [role]  
  **I need** [function]  
